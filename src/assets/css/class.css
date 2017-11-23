@@ -1,0 +1,76 @@
+.all_content{
+    width: 100%;
+    position: relative;
+    height: 11.54rem;
+    padding: 0;
+  }
+  
+  .class1{
+    padding-top: 30px;
+  }
+  .msg{
+    height: .3rem;
+    font-size: .28rem;
+    color: red;
+    text-align: left;
+    padding-left: .3rem;
+  }
+  .class1 table{
+    background: #fff;
+    margin-top: .3rem;
+    padding: 0;
+    /*margin: -.5rem;*/
+    display: block;
+    width: 100%;
+    text-align: center;
+    border-top: 1px solid #e2e2e2;
+    border-spacing:0;
+  }
+  .class1 thead,.class1 tr{
+    width: 100%;
+    /*display: inline-block;*/
+    border-bottom: 1px solid #e2e2e2;
+  }
+  thead{
+    background: #f2f2f2;
+  }
+  tr td{
+    height: .5rem;
+    margin-top:.1rem;
+  }
+  thead{
+    height: .5rem;
+    line-height: .5rem;
+  }
+  .btn-buy,.btn-more{
+    padding: 0 !important;
+    width: 1rem !important;
+    height: .4rem !important;
+    line-height: .4rem !important;
+    border-radius:3px !important;
+    background:#00a0e9 !important;
+    font-size: .2rem !important;
+  }
+  .btn-qx,.btn-gm{
+    width: 2.4rem;
+    margin: 0 .1rem;
+    height: .7rem;
+    line-height: .7rem !important;
+  }
+  .btn-qx{
+    color: #666666;
+  }
+  
+  .buy_input{
+    display:block;
+    width: 5rem;
+    height: .6rem;
+    margin:.1rem auto;
+    /*font-size: .3rem;*/
+    padding-left: .1rem;
+    border-radius: .05rem;
+    border: 1px solid #dbdbdb;
+  }
+  .more_info_suc{
+    height: 4rem;
+  }
